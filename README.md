@@ -38,5 +38,3 @@ A powerful browser console utility to track Instagram follower growth, identify 
 ## ⚠️ Disclaimer
 
 Use at your own risk. This tool is for **educational and personal use only**.
-
-Automated scraping violates [Instagram's Terms of Service](https://help.instagram.com/581066165581870). Excessive use may result in account restrictions or bans. Always use a reasonable delay between requests.
